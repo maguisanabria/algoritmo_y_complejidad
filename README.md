@@ -1,5 +1,6 @@
 # algoritmo_y_complejidad
 Tareas de la materia Algoritmo y Complejidad
+<<<<<<< HEAD
 # Implementación del TAD Pila
 En este trabajo se implementa el TAD Pila utilizando dos alternativas de representación:Arreglo dinámico y Lista enlazada.
 
@@ -22,3 +23,5 @@ un dato;
 una referencia al siguiente nodo.
 La variable "cima" mantiene una referencia al primer nodo de la lista, que representa el tope de la pila.
 Estructura
+=======
+>>>>>>> a115e3fd64b795b1aaeb436ee32597d1de903c6c
